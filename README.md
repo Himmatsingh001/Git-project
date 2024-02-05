@@ -1,4 +1,4 @@
 # Git-project
 Git practise
 <Br>
-Author - Himmatsingh
+Author - Himmatsingh (Git practise)
